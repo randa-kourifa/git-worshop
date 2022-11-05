@@ -1,0 +1,5 @@
+how to init a repo ? 
+get init 
+how to skip staged-files?
+git commit -am " last commit"
+
